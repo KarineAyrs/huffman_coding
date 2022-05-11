@@ -8,12 +8,13 @@
 ## Вспомогательные бибилиотеки}
 Для корректной работы программы необходимы следующие пакеты:
 
-
-- collections
-- argparse
-- time
-- sys
-- pickle
+```
+collections
+argparse
+time
+sys
+pickle
+```
 
 Они содержатся в файле `requirements.txt` и при необходимости могут быть установлены с помощью следующей команды:
 `pip install -r /path/to/requirements.txt`
